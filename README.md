@@ -28,6 +28,7 @@ This project will be implemented with the following technologies:
 - Vanilla JavaScript for overall structure and game logic,
 - `HTML5 Canvas` for DOM manipulation and rendering,
 - d3.js library for geographical information
+- TopoJSON files from Natural Earth
 
 
 ### Implementation Timeline
@@ -43,6 +44,7 @@ This project will be implemented with the following technologies:
 
 **Day 2**: Complete a basic world map that can handle user interaction.
 - [x] Learn how to render map (continued)
+- [x] Learn how to fetch map data from TopoJSON
 - [x] Learn how to use event listeners to map
 
 
